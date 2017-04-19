@@ -3,14 +3,19 @@
     background-color: #cf0;
 }
 #main {
+    width: 50%;
+    float: left;
     height: 500px;
     background-color: #fcc;
 }
 #sub{
+    float: right;
+    width: 50%;
     height: 500px;
     background-color: #0ff;
 }
 #footer {
+    clear: both;
     height: 500px;
     background-color: #f00;
 }
